@@ -1,0 +1,6 @@
+id;nome;latitude;longitude
+1;Gustavo Guenge;-8.814700;13.230200
+2;Orlando Cumandala;-8.820000;13.240000
+3;Verilson Caninole;-8.810000;13.225000
+4;Sívia Antônio;-8.830000;13.250000
+5;Ernesto Bartolomeu;-8.805000;13.215000

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="exame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/exame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="m" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/exame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="arestas.txt" />
+		<Unit filename="dijkstra.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dijkstra.h" />
+		<Unit filename="grafo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grafo.h" />
+		<Unit filename="haversine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="haversine.h" />
+		<Unit filename="heap.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="heap.h" />
+		<Unit filename="lista_recintos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista_recintos.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="modelos.h" />
+		<Unit filename="persistencia.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="persistencia.h" />
+		<Unit filename="recintos.txt" />
+		<Unit filename="reservas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reservas.h" />
+		<Unit filename="reservas.txt" />
+		<Unit filename="trie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trie.h" />
+		<Unit filename="utilizadores.txt" />
+		<Unit filename="vertices.txt" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
