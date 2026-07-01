@@ -32,7 +32,9 @@ void limparBuffer() {
 int lerInt(char *msg) {
     int v;
     printf("%s", msg);
-    while (scanf("%d", &v) != 1) { limparBuffer(); printf("  Valor invalido. %s", msg); }
+    while (scanf("%d", &v) != 1) {
+        limparBuffer(); printf("  Valor invalido. %s", msg);
+    }
     limparBuffer();
     return v;
 }
@@ -134,7 +136,9 @@ void menuPersistencia() {
 
 // DADOS DE EXEMPLO  (popula a aplicações sem ficheiros externos)
 
-//Main
+/* ============================================================
+   MAIN
+   ============================================================ */
 int main() {
 
 

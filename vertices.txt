@@ -1,0 +1,7 @@
+id;nome;latitude;longitude;tipo
+1;Estadio da Cidadela;-8.810000;13.220000;recinto
+2;Pavilhao Kilamba;-8.820000;13.235000;recinto
+3;Arena Premier Bet Benfica;-8.805000;13.215000;recinto
+4;Live Act Patriota;-8.830000;13.245000;recinto
+5;Intersecao Talatona;-8.818000;13.230000;intersecao
+6;Rotunda do camama;-8.825000;13.238000;intersecao

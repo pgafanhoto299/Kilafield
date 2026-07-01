@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1781646991 source:/home/guga/Documentos/ED II/exame/src/dijkstra.c
+	<float.h>
+	<string.h>
+	<stdio.h>
+	"dijkstra.h"
+	"heap.h"
+	"haversine.h"
+
+1781646977 /home/guga/Documentos/ED II/exame/src/dijkstra.h
+	"grafo.h"
+	"modelos.h"
+
+1781646922 /home/guga/Documentos/ED II/exame/src/grafo.h
+	"modelos.h"
+
+1781646896 /home/guga/Documentos/ED II/exame/src/modelos.h
+
+1781646948 /home/guga/Documentos/ED II/exame/src/heap.h
+
+1781646965 /home/guga/Documentos/ED II/exame/src/haversine.h
+
+1781646935 source:/home/guga/Documentos/ED II/exame/src/grafo.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"grafo.h"
+
+1781647174 source:/home/guga/Documentos/ED II/exame/src/haversine.c
+	<math.h>
+	"haversine.h"
+
+1781796961 source:/home/guga/Documentos/ED II/exame/dijkstra.c
+	<float.h>
+	<string.h>
+	<stdio.h>
+	"dijkstra.h"
+	"heap.h"
+	"haversine.h"
+
+1781646977 /home/guga/Documentos/ED II/exame/dijkstra.h
+	"grafo.h"
+	"modelos.h"
+
+1781646922 /home/guga/Documentos/ED II/exame/grafo.h
+	"modelos.h"
+
+1781646896 /home/guga/Documentos/ED II/exame/modelos.h
+
+1781646948 /home/guga/Documentos/ED II/exame/heap.h
+
+1781646965 /home/guga/Documentos/ED II/exame/haversine.h
+
+1781796970 source:/home/guga/Documentos/ED II/exame/grafo.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"grafo.h"
+
+1781796978 source:/home/guga/Documentos/ED II/exame/haversine.c
+	<math.h>
+	"haversine.h"
+
+1781796982 source:/home/guga/Documentos/ED II/exame/heap.c
+	<stdio.h>
+	<float.h>
+	"heap.h"
+
+1781796989 source:/home/guga/Documentos/ED II/exame/lista_recintos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_recintos.h"
+
+1781647033 /home/guga/Documentos/ED II/exame/lista_recintos.h
+	"modelos.h"
+
+1781794245 source:/home/guga/Documentos/ED II/exame/persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persistencia.h"
+	"haversine.h"
+
+1781795928 /home/guga/Documentos/ED II/exame/persistencia.h
+	"modelos.h"
+	"grafo.h"
+
+1781796998 source:/home/guga/Documentos/ED II/exame/reservas.c
+	<stdio.h>
+	<string.h>
+	"reservas.h"
+
+1781647052 /home/guga/Documentos/ED II/exame/reservas.h
+	"modelos.h"
+
+1781797004 source:/home/guga/Documentos/ED II/exame/trie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"trie.h"
+
+1781646901 /home/guga/Documentos/ED II/exame/trie.h
+
+1781797837 source:/home/guga/Documentos/ED II/exame/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"modelos.h"
+	"lista_recintos.h"
+	"trie.h"
+	"grafo.h"
+	"heap.h"
+	"haversine.h"
+	"dijkstra.h"
+	"persistencia.h"
+	"reservas.h"
+
+1782584575 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/dijkstra.c
+	<float.h>
+	<string.h>
+	<stdio.h>
+	"dijkstra.h"
+	"heap.h"
+	"haversine.h"
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/dijkstra.h
+	"grafo.h"
+	"modelos.h"
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/grafo.h
+	"modelos.h"
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/modelos.h
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/heap.h
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/haversine.h
+
+1782584575 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/grafo.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"grafo.h"
+
+1782584575 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/haversine.c
+	<math.h>
+	"haversine.h"
+
+1782590440 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/heap.c
+	<stdio.h>
+	<float.h>
+	"heap.h"
+
+1782586775 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/lista_recintos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_recintos.h"
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/lista_recintos.h
+	"modelos.h"
+
+1782585482 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"modelos.h"
+	"lista_recintos.h"
+	"trie.h"
+	"grafo.h"
+	"heap.h"
+	"haversine.h"
+	"dijkstra.h"
+	"persistencia.h"
+	"reservas.h"
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/trie.h
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/persistencia.h
+	"modelos.h"
+	"grafo.h"
+
+1782584575 /home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/reservas.h
+	"modelos.h"
+
+1782585812 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/persistencia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persistencia.h"
+	"haversine.h"
+
+1782585745 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/reservas.c
+	<stdio.h>
+	<string.h>
+	"reservas.h"
+
+1782590560 source:/home/guga/Documentos/ED II/exame/Exame_EDII_G7_T3/trie.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"trie.h"
+
